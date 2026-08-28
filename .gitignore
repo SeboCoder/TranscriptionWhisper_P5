@@ -1,0 +1,4 @@
+whisper/models/
+inputVideo
+result
+ffmpeg.exe
